@@ -12,9 +12,16 @@ a local Room query (no extra network calls).
 
 (<img width="434" height="949" alt="Online" src="https://github.com/user-attachments/assets/96c9033c-35cb-46da-aa33-80bb81e20b7e" />)
 
+
 ***Offline after Online***
 
 (<img width="420" height="886" alt="OfflineafterOnline" src="https://github.com/user-attachments/assets/80a1554e-b145-4c71-a8f2-5d7012bddf46" />)
+
+
+***Search Feature***
+
+<img width="347" height="702" alt="Search" src="https://github.com/user-attachments/assets/aa0b68e6-8deb-4dce-934a-7ec6717cbb82" />
+
 
 
 ***Core Functionality***
