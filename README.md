@@ -4,13 +4,13 @@ the device. The UI always reads from the Room database so users can still see th
 a local Room query (no extra network calls).
 
 ***Offline first***
-![Screenshot](<img width="426" height="959" alt="OfflineFirst" src="https://github.com/user-attachments/assets/3748bcc7-40bf-43e0-b10d-566053270e3e" />)
+(<img width="426" height="959" alt="OfflineFirst" src="https://github.com/user-attachments/assets/3748bcc7-40bf-43e0-b10d-566053270e3e" />)
 
 ***Online***
-![Screenshot](<img width="434" height="949" alt="Online" src="https://github.com/user-attachments/assets/96c9033c-35cb-46da-aa33-80bb81e20b7e" />)
+(<img width="434" height="949" alt="Online" src="https://github.com/user-attachments/assets/96c9033c-35cb-46da-aa33-80bb81e20b7e" />)
 
 ***Offline after Online***
-![Screenshot](<img width="420" height="886" alt="OfflineafterOnline" src="https://github.com/user-attachments/assets/80a1554e-b145-4c71-a8f2-5d7012bddf46" />)
+(<img width="420" height="886" alt="OfflineafterOnline" src="https://github.com/user-attachments/assets/80a1554e-b145-4c71-a8f2-5d7012bddf46" />)
 
 
 ***Core Functionality***
